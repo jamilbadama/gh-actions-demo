@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Hello, World! this is testing"
+    return "This the webiste for AIDOC"
 
 if __name__== "__main__":
     app.run()

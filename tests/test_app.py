@@ -1,4 +1,4 @@
 from app import index
 
 def test_index():
-    assert index() == "Hello, World! this is testing"
+    assert index() == "This the webiste for AIDOC"
